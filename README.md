@@ -1,32 +1,40 @@
 <p align="center"><img src="http://i.imgur.com/JyE27u3.gif"/></p>
-PyBlackjack 🎴
+🎴 PyBlackjack
 
-PyBlackjack is a modern, interactive Blackjack game built with Pygame. Play against the computer dealer and test your skills in this classic casino card game!
+Step into the world of casino excitement with PyBlackjack — a modern, interactive Blackjack game built with Pygame! Challenge the computer dealer, place strategic bets, and prove your skills without ever leaving your keyboard.
 
-Features
+🚀 Features
 
-Smooth 2D graphics and animations
+Smooth 2D graphics and animations for an immersive experience
 
-Fully implemented Blackjack rules: hit, stand, double down, and split
+Full Blackjack rules: hit, stand, double down, and split
 
-Betting system with interactive chips
+Interactive chip-based betting system
 
-Track wins, losses, and game statistics
+Track your wins, losses, and game stats
 
-Easy to expand and customize for your own projects
+Modular and easy to extend — perfect for learning or building your own card games
 
-How to Play
+🎮 How to Play
 
 Run the game using Python and Pygame.
 
 Place your bet using the chip buttons.
 
-Try to beat the dealer without going over 21!
+Beat the dealer without going over 21!
 
-Why This Project?
+🏆 Why Play PyBlackjack?
 
-Great for learning Python and Pygame
+Sharpen your Python and Pygame skills
 
-Demonstrates game loops, event handling, and UI design
+Learn about game loops, event handling, and UI design
 
-Open for contributions and improvements
+Open for contributions, enhancements, and creative tweaks
+
+⚡ Tech Stack
+
+Python
+
+Pygame
+
+Git for version control
