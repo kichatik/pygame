@@ -1,26 +1,29 @@
-<p align="center"><img src="http://i.imgur.com/JyE27u3.gif"/></p>  
- 
-#Py Rollers Casino
+<p align="center"><img src="http://i.imgur.com/JyE27u3.gif"/></p>
+Py Rollers Casino
 
-Py Rollers Casino is a group Pygame project focused on creating a collection of casino mini-games.  Please note that this is a CC-0 project so all contributions must be licensed as such.  Discussion on the project takes place on [our project subreddit](http://www.reddit.com/r/PyRollersCasino/).
+Py Rollers Casino is a group Pygame project focused on creating a collection of casino mini-games. All project materials are in the public domain (CC-0), so any contributions must follow the same licensing.
 
-##Project Goals  
+Project Goals
 
-* A chance for people to get some experience working together on a project
-* A chance to use github's collaborative abilities
-* Something people of all experience levels can contribute to
-* Provide another example of [Mekire's multiscene template](https://github.com/Mekire/pygame-mutiscene-template-with-movie) in action.
-* Card, dice and chip modules that are usable in other games
-* [CC-0 licensing](http://creativecommons.org/about/cc0) to make using the project as a resource hassle-free
-* Make decisions by consensus whenever possible
+Give people experience working together on a project
 
-##How can I get involved?  
+Use GitHub’s collaborative features
 
-###Make a game:  
-There is a [list on the wiki](http://www.reddit.com/r/PyRollersCasino/wiki/index) of which games are already being worked on. Pick an open game from the list or add a different game of your choosing. Other than slot machines, there should only be one version of each casino game. Add your name to the list so no one duplicates your efforts and get coding. See the Adding a game section of the wiki for more info.
+Create something that people of all experience levels can contribute to
 
-###Code review:  
-If you're short on time, but long on experience, consider looking over the repo with an eye towards improvement. You can actually make changes and send a pull request, [post to the subreddit](http://www.reddit.com/r/PyRollersCasino/) with your suggestion or contact [/u/iminurnamez](http://www.reddit.com/user/iminurnamez). Whatever is easiest for you. Keep in mind that your contributions must be CC-0.
+Provide card, dice, and chip modules that can be used in other games
 
-###Testing:  
-We are always looking for ways to improve any aspect of the project, so try it out and let us know what you think, good or bad. Especially bad. If you come across a bug, please try to include as much detail as possible, including the traceback if there is one. Also include your OS and Python version.
+Make decisions by consensus whenever possible
+
+How to Get Involved
+Make a Game:
+
+Pick any mini-game that isn’t already being worked on, or propose your own. Try to ensure there is only one version of each game, except for slot machines. Add your name to the participant list and start coding.
+
+Code Review:
+
+If you have limited time but plenty of experience, you can review the code and suggest improvements. You can make changes via pull requests or discuss suggestions with other contributors.
+
+Testing:
+
+The project always needs testers. Play the mini-games, look for bugs, and report them with as much detail as possible: what happened, the traceback if any, your operating system, and Python version.
